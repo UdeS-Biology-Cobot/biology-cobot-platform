@@ -86,10 +86,10 @@ fi
 mapfile -t REPOS <<'EOF'
 cartesian_controllers,https://github.com/captain-yoshi/cartesian_controllers.git,c1526e5d7abed7066e93afded14b0eb7c1e49a3e
 control_msgs,https://github.com/captain-yoshi/control_msgs.git,c776cc61bcfa32ac3b1cbf107050abbcb66e8f59
-deterministic_trac_ik,https://github.com/captain-yoshi/deterministic_trac_ik.git,d7b79e9f9d07f25f0397c97ca8023073733920a2
+deterministic_trac_ik,https://github.com/captain-yoshi/deterministic_trac_ik.git,f80c3d472f5b7dd98c12a9aa33b2d7804efe23c2
 mimik_description,https://github.com/mimik-robotics/mimik_description.git,730e910005143df3ca0217b0978dbd1075888201
-mimik_robot_setup,https://github.com/mimik-robotics/mimik_robot_setup.git,4df57dfe007c804afa4d4a2add3c87f0a8a2dea3
-mimik_task,https://github.com/mimik-robotics/mimik_task.git,ac1d29f46f49649a842540577f0ebc5133287152
+mimik_robot_setup,https://github.com/mimik-robotics/mimik_robot_setup.git,36f4e06f6bc8dbad9c9b7767704d4215d0fdac1e
+mimik_task,https://github.com/mimik-robotics/mimik_task.git,0d292ffdae3afe3c9a042a925a97654bad6f3257
 mimik_ur_launch,https://github.com/mimik-robotics/mimik_ur_launch.git,1b03a0d07bea1a59c11d3ad2222c5efb044002fe
 mimik_vision,https://github.com/mimik-robotics/mimik_vision.git,fa4a34bde8224de6c0f289b6d0f7acef41cb161d
 moveit,https://github.com/captain-yoshi/moveit.git,ba67fc38b78363caa4f4c5068833276b5e5c8b1c
@@ -98,7 +98,7 @@ realsense_ros,https://github.com/IntelRealSense/realsense-ros.git,b14ce433d1cccd
 robotiq,https://github.com/captain-yoshi/robotiq.git,0b2f924ab39d2ac8d9268279e3fcdbd8ed909954
 ros_colony_morphology,https://github.com/UdeS-Biology-Cobot/ros_colony_morphology.git,7cf4f3c496ca7262dc2793607b4baa73cd7a13da
 ros_pipette_tool,https://github.com/UdeS-Biology-Cobot/ros_pipette_tool.git,0ef0586e6e1256a87e860412ef895128a7e83170
-sodf,https://github.com/captain-yoshi/sodf.git,cf38a665bd7677db7fd2988f224458ce41dbc412
+sodf,https://github.com/captain-yoshi/sodf.git,e90e050dca6deafc2feb13fe001e253251d6f92f
 task_space_feedback,https://github.com/captain-yoshi/task_space_feedback.git,d2f86c0a989731bcf25aa1b01836b698d21bb9cd
 universal_robots_ros_driver,https://github.com/UniversalRobots/Universal_Robots_ROS_Driver.git,d73f7f7b4d1c978780cb19648d505678317b3009
 vision_opencv,https://github.com/ros-perception/vision_opencv.git,cfabf72fb02970a661b5e68fbee503c5d9f94729
