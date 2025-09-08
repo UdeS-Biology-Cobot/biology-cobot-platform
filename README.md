@@ -48,3 +48,17 @@ The reference implementation has been developed and tested on:
 | **Robotiq / Generic Gripper**  | Gripper control interface                  | Replace with your hardware-specific package |
 | **Force–Torque Sensor Drivers**| Wrench feedback integration                | Vendor-specific driver package |
 | **Custom Pipette Package**     | Electronic micropipette control             | Included in this repository     |
+
+
+## Installation
+
+To simplify installation, this repository includes a setup script for Ubuntu 20.04:
+
+```bash
+# this may take a while
+$ ./ubuntu-20.04-setup.bash
+
+# don't forget to source your current terminal
+$ source ~/.bashrc
+
+```
